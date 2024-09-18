@@ -14,13 +14,13 @@ Set up these API keys as secret environmen variables in Replit.
 ### Installing Dependencies
 1. Open your Replit project.
 2. Enter the following commands in the Replit shell to install the necessary dependencies:
-•pip install boltiotai
+pip install boltiotai
 ## Usage
 1. Import the necessary libraries in your Python script:
-from boltiotai import openai
-import os
-import sys
-2. Start coding your AI assistant using the GPT-3.5 Turbo model.
+ •from boltiotai import openai
+ •import os
+ •import sys
+3. Start coding your AI assistant using the GPT-3.5 Turbo model.
 ## Contributing
 Feel free to contribute to this project by providing feedback, suggestions, or submitting pull requests.
 ## Acknowledgements
