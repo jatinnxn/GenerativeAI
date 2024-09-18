@@ -17,13 +17,18 @@ Set up these API keys as secret environmen variables in Replit.
 pip install boltiotai
 ## Usage
 1. Import the necessary libraries in your Python script:
- •from boltiotai import openai
- •import os
- •import sys
+   from boltiotai import openai
+
+   import os
+ 
+   import sys
+ 
 3. Start coding your AI assistant using the GPT-3.5 Turbo model.
 ## Contributing
 Feel free to contribute to this project by providing feedback, suggestions, or submitting pull requests.
 ## Acknowledgements
 - GPT-3.5 Turbo by OpenAI
+ 
 - BoltiotAI API
+  
 Thank you for using this README guide, and good luck with creating your own Al assistant!
