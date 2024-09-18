@@ -15,7 +15,7 @@ Acquire OpenAI and BoltiotAI API keys.
 Set up these API keys as secret environmen variables in Replit.
 ### Installing Dependencies
 1. Open your Replit project.
-2. Enter the following commands in the Replit shell to install the necessary dependencies:
+2. Enter the following commands in the Replit shell to install the necessary dependencies : 
 pip install boltiotai
 ## Usage
 1. Import the necessary libraries in your Python script:
