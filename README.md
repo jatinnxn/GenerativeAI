@@ -1,0 +1,1 @@
+Welcome to the AI Assistant project! This is an intelligent virtual assistant designed to answer user questions across a variety of topics.The AI Assistant aims to provide accurate and helpful responses to enhance user interaction.
