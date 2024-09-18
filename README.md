@@ -1,3 +1,5 @@
+# Own AI Assistant
+
 Welcome to the AI Assistant project! This is an intelligent virtual assistant designed to answer user questions across a variety of topics.The AI Assistant aims to provide accurate and helpful responses to enhance user interaction.
 
 This project leverages the GPT-3.5 Turbo model in Replit to help you create your very own AI assistant. By setting up secret APIs and ins
