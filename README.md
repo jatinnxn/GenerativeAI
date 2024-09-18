@@ -19,6 +19,7 @@ Set up these API keys as secret environmen variables in Replit.
 pip install boltiotai
 ## Usage
 1. Import the necessary libraries in your Python script:
+
    from boltiotai import openai
 
    import os
